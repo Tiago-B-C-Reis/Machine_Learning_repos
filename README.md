@@ -13,7 +13,7 @@ This repository encompasses all the machine learning courses and projects comple
 + ...
 
 ---
-## [Pack 1 - Beginner -> Machine-Learning-Specialization-by-Andrew-NG]()
+## [Pack 1 - Beginner -> Machine-Learning-Specialization-by-Andrew-NG](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization)
 ### [Course 1: Supervised Machine Learning: Regression and Classification]()
 
 ### [Course 2: Advanced Learning Algorithms]()
@@ -21,7 +21,7 @@ This repository encompasses all the machine learning courses and projects comple
 ### [Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning]()
 
 ---
-## [Pack 2 - Advance -> Deep_Learning_Specialization_by_Andrew_NG]()
+## [Pack 2 - Advance -> Deep_Learning_Specialization_by_Andrew_NG](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization)
 ### Programming Assignments
 ### [Course 1: Neural Networks and Deep Learning]()
 + Week 2 - PA 1 - Python Basics with Numpy
