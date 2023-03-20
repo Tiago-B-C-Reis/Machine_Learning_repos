@@ -14,39 +14,72 @@ This repository encompasses all the machine learning courses and projects comple
 
 ---
 ## [Pack 1 - Beginner -> Machine-Learning-Specialization-by-Andrew-NG](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization)
-### [Course 1: Supervised Machine Learning: Regression and Classification]()
-
-### [Course 2: Advanced Learning Algorithms]()
-
-### [Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning]()
-
+### Programming Assignments & Optional Labs:
+### [Course 1: Supervised Machine Learning: Regression and Classification](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_1)
++ Week 1 - OL 2 - [Model Representation](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_1/Package/C1_W1_Lab02_Model_Representation_Soln.ipynb)
++ Week 1 - OL 3 - [Cost Function](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_1/Package/C1_W1_Lab03_Cost_function_Soln.ipynb)
++ Week 1 - OL 4 - [Gradient Descent](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_1/Package/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
++ Week 2 - OL 1 - [Numpy Vectorization](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_2/Package_1/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb)
++ Week 2 - OL 2 - [Multi Variate Regression](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_2/Package_1/C1_W2_Lab02_Multiple_Variable_Soln.ipynb)
++ Week 2 - OL 3 - [Feature Scaling](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_2/Package_1/C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb)
++ Week 2 - OL 4 - [Feature Engineering](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_2/Package_1/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb)
++ Week 2 - OL 5 - [Sklearn Gradient Descent](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_2/Package_1/C1_W2_Lab05_Sklearn_GD_Soln.ipynb)
++ Week 2 - OL 6 - [Sklearn Normal Method](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_2/Package_1/C1_W2_Lab06_Sklearn_Normal_Soln.ipynb)
++ Week 2 - PA 1 - [Linear Regression](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_1/Week_2/Package_2)
++ Week 3 - OL 1 - [Classification](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_3/Package_1/C1_W3_Lab01_Classification_Soln.ipynb)
++ Week 3 - OL 2 - [Sigmoid Function](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_3/Package_1/C1_W3_Lab02_Sigmoid_function_Soln.ipynb)
++ Week 3 - OL 3 - [Decision Boundary](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_3/Package_1/C1_W3_Lab03_Decision_Boundary_Soln.ipynb)
++ Week 3 - OL 4 - [Logistic Loss](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_3/Package_1/C1_W3_Lab04_LogisticLoss_Soln.ipynb)
++ Week 3 - OL 5 - [Cost Function](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_3/Package_1/C1_W3_Lab05_Cost_Function_Soln.ipynb)
++ Week 3 - OL 6 - [Gradient Descent](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_3/Package_1/C1_W3_Lab06_Gradient_Descent_Soln.ipynb)
++ Week 3 - OL 7 - [Scikit Learn - Logistic Regression](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_3/Package_1/C1_W3_Lab07_Scikit_Learn_Soln.ipynb)
++ Week 3 - OL 8 - [Over-fitting](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_3/Package_1/C1_W3_Lab08_Overfitting_Soln.ipynb)
++ Week 3 - OL 9 - [Regularization](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_1/Week_3/Package_1/C1_W3_Lab09_Regularization_Soln.ipynb)
++ Week 3 - PA 1 - [Logistic Regression](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_1/Week_3/Package_2)
+### [Course 2: Advanced Learning Algorithms](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_2)
++ Week 1 - OL 1 - [Neurons and Layers](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_2/Week_1/Package_1/C2_W1_Lab01_Neurons_and_Layers.ipynb)
++ Week 1 - OL 2 - [Coffee Roasting](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_2/Week_1/Package_1/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
++ Week 1 - OL 3 - [Coffee Roasting Using Numpy](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_2/Week_1/Package_1/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
++ Week 1 - PA 1 - [Neural Networks for Binary Classification](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_2/Week_1/Package_2)
++ Week 2 - OL 1 - [RElu](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_2/Week_2/Package_1/C2_W2_Relu.ipynb)
++ Week 2 - OL 2 - [Softmax](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_2/Week_2/Package_1/C2_W2_SoftMax.ipynb)
++ Week 2 - OL 3 - [Multiclass Classification](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/blob/main/Machine-Learning-Specialization/Course_2/Week_2/Package_1/C2_W2_Multiclass_TF.ipynb)
++ Week 2 - PA 1 - [Neural Networks For Handwritten Digit Recognition - Multiclass](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_2/Week_2/Package_2)
++ Week 3 - PA 1 - [Advice for Applied Machine Learning](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_2/Week_3/Package_1)
++ Week 4 - PA 1 - [Decision Trees](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_2/Week_4/Package_1)
+### [Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_3)
++ Week 1 - PA 1 - [K-means](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_3/Week_1/Package_1)
++ Week 1 - PA 2 - [Anomaly Detection](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_3/Week_1/Package_2)
++ Week 2 - PA 1 - [Collaborative Filtering Recommender Systems](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_3/Week_2/Package_1)
++ Week 2 - PA 2 - [Deep Learning for Content-Based Filtering](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_3/Week_2/Package_2)
++ Week 3 - OL 1 - [State-action value function](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_3/Week_3/Package_1) 
++ Week 3 - PA 1 - [Reinforcement Learning: Deep Q-Learning - Lunar Lander](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Machine-Learning-Specialization/Course_3/Week_3/Package_2)
 ---
 ## [Pack 2 - Advance -> Deep_Learning_Specialization_by_Andrew_NG](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization)
-### Programming Assignments
-### [Course 1: Neural Networks and Deep Learning]()
-+ Week 2 - PA 1 - Python Basics with Numpy
-+ Week 2 - PA 2 - Logistic Regression with a Neural Network mindset
-+ Week 3 - PA 3 - Planar data classification with one hidden layer
-+ Week 4 - PA 4 - Building your Deep Neural Network: Step by Step
-+ Week 4 - PA 5 - Deep Neural Network for Image Classification: Application
-### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization]()
-+ Week 1 - PA 1 - Initialization
-+ Week 1 - PA 2 - Regularization
-+ Week 1 - PA 3 - Gradient Checking
-+ Week 2 - PA 4 - Optimization Methods
-+ Week 3 - PA 5 - TensorFlow Tutorial
+### Programming Assignments:
+### [Course 1: Neural Networks and Deep Learning](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_1)
++ Week 2 - PA 1 - [Python Basics with Numpy](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_1/Week_2/W2A1)
++ Week 2 - PA 2 - [Logistic Regression with a Neural Network mindset](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_1/Week_2/W2A2)
++ Week 3 - PA 1 - [Planar data classification with one hidden layer](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_1/Week_3)
++ Week 4 - PA 1 - [Building your Deep Neural Network: Step by Step](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_1/Week_4/W4A1)
++ Week 4 - PA 2 - [Deep Neural Network for Image Classification: Application](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_1/Week_4/W4A2)
+### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_2)
++ Week 1 - PA 1 - [Initialization](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_2/Week_1/W1A1)
++ Week 1 - PA 2 - [Regularization](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_2/Week_1/W1A2)
++ Week 1 - PA 3 - [Gradient Checking](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_2/Week_1/W1A3)
++ Week 2 - PA 1 - [Optimization Methods](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_2/Week_2/W2A1)
++ Week 3 - PA 2 - [TensorFlow Tutorial](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_2/Week_3/W3A1)
 ### [Course 3: Structuring Machine Learning Projects]()
-+ There are no programming assignments for this course. But this course comes with very interesting case study quizzes.
-### [Course 4: Convolutional Neural Networks]()
-+ Week 1 - PA 1 - Convolutional Model: step by step
-+ Week 1 - PA 2 - Convolutional Neural Networks: Application
-+ Week 2 - PA 1 - Keras - Tutorial - Happy House
-+ Week 2 - PA 2 - Residual Networks
-+ Week 2 - PA 2 - Transfer Learning with MobileNet
-+ Week 3 - PA 1 - Car detection with YOLO for Autonomous Driving
-+ Week 3 - PA 2 - Image Segmentation Unet
-+ Week 4 - PA 1 - Art Generation with Neural Style Transfer
-+ Week 4 - PA 2 - Face Recognition
++ The course does not include programming assignments; however, it emphasizes the acquisition of advanced-level performance evaluation metrics applicable to any neural network.
+### [Course 4: Convolutional Neural Networks](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4)
++ Week 1 - PA 1 - [Convolutional Model: step by step](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_1/W1A1)
++ Week 1 - PA 2 - [Convolutional Neural Networks: Application](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_1/W1A2)
++ Week 2 - PA 1 - [Residual Networks](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_2/W2A1)
++ Week 2 - PA 2 - [Transfer Learning with MobileNet](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_2/W2A2)
++ Week 3 - PA 1 - [Car detection with YOLO, for Autonomous Driving](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_3/W3A1)
++ Week 3 - PA 2 - [Image Segmentation with Unet](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_3/W3A2)
++ Week 4 - PA 1 - [Face Recognition](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_4/W4A1)
++ Week 4 - PA 2 - [Art Generation with Neural Style Transfer](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_4/W4A2)
 ### [Course 5: Sequence Models]()
 + Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step
 + Week 1 - PA 2 - Dinosaur Land -- Character-level Language Modeling
@@ -59,6 +92,7 @@ This repository encompasses all the machine learning courses and projects comple
 + Week 3 - PA 2 - Transformer Network Application: Named-Entity Recognition
 + Week 3 - PA 2 - Transformer Network Application: Question Answering
 ---
+
 ## Learning achievements:
 I did not include the three courses of "pack 1" in this list as they cover fundamental aspects of the topics mentioned below.
 ### Pack 2 - Course 1: Neural Networks and Deep Learning
