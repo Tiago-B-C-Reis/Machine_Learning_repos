@@ -69,7 +69,7 @@ This repository encompasses all the machine learning courses and projects comple
 + Week 1 - PA 3 - [Gradient Checking](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_2/Week_1/W1A3)
 + Week 2 - PA 1 - [Optimization Methods](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_2/Week_2/W2A1)
 + Week 3 - PA 2 - [TensorFlow Tutorial](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_2/Week_3/W3A1)
-### [Course 3: Structuring Machine Learning Projects]()
+### [Course 3: Structuring Machine Learning Projects](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_3)
 + The course does not include programming assignments; however, it emphasizes the acquisition of advanced-level performance evaluation metrics applicable to any neural network.
 ### [Course 4: Convolutional Neural Networks](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4)
 + Week 1 - PA 1 - [Convolutional Model: step by step](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_1/W1A1)
@@ -80,7 +80,7 @@ This repository encompasses all the machine learning courses and projects comple
 + Week 3 - PA 2 - [Image Segmentation with Unet](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_3/W3A2)
 + Week 4 - PA 1 - [Face Recognition](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_4/W4A1)
 + Week 4 - PA 2 - [Art Generation with Neural Style Transfer](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_4/W4A2)
-### [Course 5: Sequence Models]()
+### [Course 5: Sequence Models](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_5)
 + Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step
 + Week 1 - PA 2 - Dinosaur Land -- Character-level Language Modeling
 + Week 1 - PA 3 - Jazz improvisation with LSTM
