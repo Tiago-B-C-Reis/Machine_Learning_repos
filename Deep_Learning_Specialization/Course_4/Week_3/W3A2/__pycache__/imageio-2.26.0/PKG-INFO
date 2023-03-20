@@ -1,0 +1,81 @@
+Metadata-Version: 2.1
+Name: imageio
+Version: 2.26.0
+Summary: Library for reading and writing a wide range of image, video, scientific, and volumetric data formats.
+Home-page: https://github.com/imageio/imageio
+Download-URL: http://pypi.python.org/pypi/imageio
+Author: imageio contributors
+Author-email: almar.klein@gmail.com
+License: BSD-2-Clause
+Keywords: image video volume imread imwrite io animation ffmpeg
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Provides: imageio
+Requires-Python: >=3.7
+Provides-Extra: build
+Provides-Extra: linting
+Provides-Extra: test
+Provides-Extra: docs
+Provides-Extra: bsdf
+Provides-Extra: dicom
+Provides-Extra: feisem
+Provides-Extra: ffmpeg
+Provides-Extra: freeimage
+Provides-Extra: lytro
+Provides-Extra: numpy
+Provides-Extra: pillow
+Provides-Extra: simpleitk
+Provides-Extra: spe
+Provides-Extra: swf
+Provides-Extra: tifffile
+Provides-Extra: pyav
+Provides-Extra: fits
+Provides-Extra: gdal
+Provides-Extra: itk
+Provides-Extra: full
+Provides-Extra: dev
+Provides-Extra: all-plugins
+Provides-Extra: all-plugins-pypy
+License-File: LICENSE
+
+
+.. image:: https://github.com/imageio/imageio/workflows/CI/badge.svg
+    :target: https://github.com/imageio/imageio/actions
+
+
+Imageio is a Python library that provides an easy interface to read and
+write a wide range of image data, including animated images, volumetric
+data, and scientific formats. It is cross-platform, runs on Python 3.5+,
+and is easy to install.
+
+Main website: https://imageio.readthedocs.io/
+
+
+Release notes: https://github.com/imageio/imageio/blob/master/CHANGELOG.md
+
+Example:
+
+.. code-block:: python
+
+    >>> import imageio
+    >>> im = imageio.imread('imageio:astronaut.png')
+    >>> im.shape  # im is a numpy array
+    (512, 512, 3)
+    >>> imageio.imwrite('astronaut-gray.jpg', im[:, :, 0])
+
+See the `API Reference <https://imageio.readthedocs.io/en/stable/reference/index.html>`_
+or `examples <https://imageio.readthedocs.io/en/stable/examples.html>`_
+for more information.
