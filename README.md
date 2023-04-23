@@ -1,4 +1,4 @@
-# Machine Learning repositories: (On Going...)
+# Machine Learning repositories:
 Machine Learning Courses and Projects
 This repository encompasses all the machine learning courses and projects completed by me to date, which include:
 + Pack 1: Comprising three courses (one-month duration each) covering the fundamental concepts of machine learning.
@@ -81,16 +81,17 @@ This repository encompasses all the machine learning courses and projects comple
 + Week 4 - PA 1 - [Face Recognition](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_4/W4A1)
 + Week 4 - PA 2 - [Art Generation with Neural Style Transfer](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_4/Week_4/W4A2)
 ### [Course 5: Sequence Models](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_5)
-+ Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step
-+ Week 1 - PA 2 - Dinosaur Land -- Character-level Language Modeling
-+ Week 1 - PA 3 - Jazz improvisation with LSTM
-+ Week 2 - PA 1 - Word Vector Representation and Debiasing
-+ Week 2 - PA 2 - Emojify!
-+ Week 3 - PA 1 - Neural Machine Translation with Attention
-+ Week 3 - PA 2 - Trigger Word Detection
-+ Week 4 - PA 1 - Transformer Network
-+ Week 3 - PA 2 - Transformer Network Application: Named-Entity Recognition
-+ Week 3 - PA 2 - Transformer Network Application: Question Answering
++ Week 1 - PA 1 - [Building your Recurrent Neural Network - Step by Step]()
++ Week 1 - PA 2 - [Dinosaur Island-Character-Level Language Modeling]()
++ Week 1 - PA 3 - [Jazz Improvisation with LSTM]()
++ Week 2 - PA 1 - [Operations on Word Vectors - Debiasing]()
++ Week 2 - PA 2 - [Emojify!]()
++ Week 3 - PA 1 - [Neural Machine Translation]()
++ Week 3 - PA 2 - [Trigger Word Detection]()
++ Week 4 - PA 1 - [Transformers Architecture with TensorFlow]()
++ Week 4 - UL 1 - [Transformer Pre-processing]()
++ Week 4 - UL 2 - [Transformer Network Application: Named-Entity Recognition]()
++ Week 4 - UL 3 - [Transformer Network Application: Question Answering]()
 ---
 
 ## Learning achievements:
@@ -235,4 +236,44 @@ I did not include the three courses of "pack 1" in this list as they cover funda
     + 1D and 3D Generalizations.
 
 ### Pack 2 - Course 5: Sequence Models
-+ 
++ Recurrent Neural Networks:
+  + Sequence Models;
+  + Recurrent Neural Network Model;
+  + Backpropagation Through Time;
+  + Different Types of RNNs; 
+    + Encoder/Decoder;
+  + Language Model and Sequence Generation;
+  + Vanishing Gradients with RNNs;
+  + Gated Recurrent Unit (GRU);
+  + Long Short-Term Memory (LSTM);
+  + Bidirectional RNN;
+  + Deep RNNs;
++ Word Representation:
+  + Word embeddings.
+    + Word Representation;
+    + Properties of Word Embeddings;
+    + Embedding Matrix;
+  + Learning word embeddings: Word2Vec & GloVe.
+    + Word2Vec;
+    + Negative Sampling - Skip-Gram;
+    + GloVe Word Vectors;
+  + Applications using word embeddings.
+    + Sentiment Classification;
+    + Debiasing Word Embeddings;
++ Basic Models:
+  + Various Sequence To Sequence Architectures:
+    + Basic Models;
+    + Beam Search;
+    + Refinements to Beam Search;
+    + Error Analysis in Beam Search;
+    + Bleu Score;
+    + Attention Model;
+  + Speech Recognition:
+    + Speech recognition;
+    + Trigger Word Detection;
++ Transformers:
+  + Transformer Network Intuition;
+  + Self-Attention;
+  + Multi-Head Attention;
+  + Transformer Network;
+

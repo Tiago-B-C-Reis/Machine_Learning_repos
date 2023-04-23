@@ -5,12 +5,285 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="668838c3-f78d-4303-8593-43c557a797a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/.ipynb_checkpoints/Building_a_Recurrent_Neural_Network_Step_by_Step-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/Building_a_Recurrent_Neural_Network_Step_by_Step.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/generateTestCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/LSTM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/LSTM_cell_backward_rev3a_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/LSTM_cell_backward_rev3a_c2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/LSTM_figure4_v3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/LSTM_rnn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/RNN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/initial_state.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/old_rnn_cell_backward_3a_c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/rnn_backward_overview_3a_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/rnn_cell_backprop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/rnn_cell_backward_3a_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/rnn_cell_backward_3a_c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/rnn_forward_sequence_figure3_v3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/rnn_step_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/images/rnn_step_forward_figure2_v3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/public_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/rnn_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A1/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/.ipynb_checkpoints/Dinosaurus_Island_Character_level_language_model-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/Dinosaurus_Island_Character_level_language_model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/Dinosaurus_Island_Character_level_language_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/dinos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/generateTestCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/images/clip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/images/dino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/images/dinos3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/images/mangosaurus.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/images/rnn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/images/shakespeare.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/models/model_shakespeare_kiank.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/models/model_shakespeare_kiank_350_epoch.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/shakespeare.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/shakespeare_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/untitled.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A2/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/.ipynb_checkpoints/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/chrome.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/data/30s_seq.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/data/30s_seq.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/data/30s_trained_model.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/data/30s_trained_model.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/data/deepjazz_on_metheny...128_epochs.midi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/data/original_metheny.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/data_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/generateTestCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/grammar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/images/jazz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/images/model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/images/music_gen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/images/music_generation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/inference_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/midi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/music_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/output/my_music.midi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/output/rendered.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/outputs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/preprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/qa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_1/W1A3/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/.ipynb_checkpoints/Operations_on_word_vectors_v2a-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/Operations_on_word_vectors_v2a.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/Operations_on_word_vectors_v2a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/data/input-Copy1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/data/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/generateTestCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/images/1-hot-vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/images/cosine_sim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/images/equalize10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/images/lookup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/images/neutral.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/images/neutralize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/images/neutralize_kiank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A1/w2v_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/.ipynb_checkpoints/Emoji_v3a-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/Emoji_v3a.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/Emoji_v3a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/data/emojify_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/data/fake_glove.6B.50d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/data/tes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/data/tess.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/data/tesss.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/data/test_emoji.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/data/testing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/data/train_emoji.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/emo_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/generateTestCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/images/data_set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/images/dataset_kiank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/images/emb_kiank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/images/embedding1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/images/emo_model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/images/emojifier-v2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/images/emojifierv1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/images/emojify_model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/images/emojiss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/images/image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/images/woebot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_2/W2A2/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A1/.ipynb_checkpoints/Neural_machine_translation_with_attention_v4a-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A1/Neural_machine_translation_with_attention_v4a.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A1/generateTestCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A1/images/attn_mechanism.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A1/images/attn_model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A1/images/date_attention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A1/images/date_attention2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A1/images/poorly_trained_model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A1/images/table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A1/models/model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A1/nmt_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A1/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/.ipynb_checkpoints/Trigger_word_detection_v2a-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/Trigger_word_detection_v2a.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/Trigger_word_detection_v2a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/audio_examples/chime.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/audio_examples/example_train.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/audio_examples/insert_reference.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/audio_examples/my_audio.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/audio_examples/train_reference.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/chime_output.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/generateTestCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/images/label_diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/images/model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/images/ones_reference.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/images/sound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/images/spectrogram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/images/train_label.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/images/train_reference.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/insert_test.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/models/model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/models/model_new8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/activates/1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/activates/1_act2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/activates/1_act3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/activates/2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/activates/2_act2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/activates/2_act3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/activates/3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/activates/3_act2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/activates/3_act3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/activates/4_act2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/backgrounds/1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/backgrounds/2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/dev/1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/dev/2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/negatives/1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/negatives/1_0.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/negatives/2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/negatives/2_1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/negatives/3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/negatives/3_2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/negatives/4.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/negatives/4_0.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/negatives/5.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/raw_data/negatives/5_1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/td_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/tmp.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_3/W3A2/train.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A1/.ipynb_checkpoints/C5_W4_A1_Transformer_Subclass_v1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A1/C5_W4_A1_Transformer_Subclass_v1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A1/decoder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A1/decoder_layer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A1/encoder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A1/encoder_layer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A1/ner.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A1/public_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A1/self-attention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A1/transformer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/._Transformer_application_Named_Entity_Recognition.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/._model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/._ner.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/._tokenizer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/._utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/.ipynb_checkpoints/._Transformer_application_Named_Entity_Recognition-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/.ipynb_checkpoints/Transformer_application_Named_Entity_Recognition-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/Transformer_application_Named_Entity_Recognition.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/model/._config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/model/._tf_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/model/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/ner.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/tokenizer/._special_tokens_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/tokenizer/._tokenizer_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/tokenizer/._vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/tokenizer/special_tokens_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/tokenizer/tokenizer_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/tokenizer/vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/._QA_dataset.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/._data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/._model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/._tokenizer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/.ipynb_checkpoints/._QA_dataset-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/.ipynb_checkpoints/QA_dataset-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/QA_dataset.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/._dataset_dict.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/._test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/._train" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/dataset_dict.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/test/._dataset.arrow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/test/._dataset_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/test/._state.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/test/cache-26c237c56fc0b951.arrow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/test/cache-6b23a7f03ef9fdb4.arrow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/test/cache-9942e9872dc8005e.arrow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/test/cache-c9959a793a67abd8.arrow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/test/dataset.arrow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/test/dataset_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/test/state.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/train/._dataset.arrow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/train/._dataset_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/train/._state.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/train/cache-0fc15bb7ced323a0.arrow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/train/cache-2eca08ee2ce6fc75.arrow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/train/cache-b15adac33f6252ef.arrow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/train/dataset.arrow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/train/dataset_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/data/train/state.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/model/._pytorch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/model/._tensorflow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/model/pytorch/._config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/model/pytorch/._pytorch_model.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/model/pytorch/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/model/tensorflow/._config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/model/tensorflow/._tf_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/model/tensorflow/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Apr23_08-24-30_8d5e2cf5fc2c/1682238271.8410084/events.out.tfevents.1682238271.8d5e2cf5fc2c.11.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Apr23_08-24-30_8d5e2cf5fc2c/events.out.tfevents.1682238271.8d5e2cf5fc2c.11.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Apr23_08-24-30_8d5e2cf5fc2c/events.out.tfevents.1682238283.8d5e2cf5fc2c.11.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Apr23_09-00-04_8d5e2cf5fc2c/1682240404.6560123/events.out.tfevents.1682240404.8d5e2cf5fc2c.11.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Apr23_09-00-04_8d5e2cf5fc2c/events.out.tfevents.1682240404.8d5e2cf5fc2c.11.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Apr23_09-00-04_8d5e2cf5fc2c/events.out.tfevents.1682240416.8d5e2cf5fc2c.11.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec19_21-38-58_4e5f77928000/1671485940.7834005/events.out.tfevents.1671485940.4e5f77928000.11.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec19_21-38-58_4e5f77928000/events.out.tfevents.1671485940.4e5f77928000.11.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec19_21-38-58_4e5f77928000/events.out.tfevents.1671485952.4e5f77928000.11.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec21_12-19-04_26b0b56ecce0/1671625145.7646568/events.out.tfevents.1671625145.26b0b56ecce0.11.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec21_12-19-04_26b0b56ecce0/events.out.tfevents.1671625145.26b0b56ecce0.11.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec21_12-19-04_26b0b56ecce0/events.out.tfevents.1671625157.26b0b56ecce0.11.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec21_12-33-51_4944914902af/1671626034.2980044/events.out.tfevents.1671626034.4944914902af.43.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec21_12-33-51_4944914902af/events.out.tfevents.1671626034.4944914902af.43.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec21_12-33-51_4944914902af/events.out.tfevents.1671626046.4944914902af.43.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec21_12-36-59_4944914902af/1671626220.8082364/events.out.tfevents.1671626220.4944914902af.191.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec21_12-36-59_4944914902af/events.out.tfevents.1671626220.4944914902af.191.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec21_12-36-59_4944914902af/events.out.tfevents.1671626232.4944914902af.191.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec21_12-40-21_4944914902af/1671626422.1444414/events.out.tfevents.1671626422.4944914902af.343.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec21_12-40-21_4944914902af/events.out.tfevents.1671626422.4944914902af.343.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/results/runs/Dec21_12-40-21_4944914902af/events.out.tfevents.1671626433.4944914902af.343.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/tokenizer/._special_tokens_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/tokenizer/._tokenizer_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/tokenizer/._vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/tokenizer/special_tokens_map.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/tokenizer/tokenizer_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL/tokenizer/vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A4_UGL_POS/.ipynb_checkpoints/Embedding_plus_Positional_encoding-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A4_UGL_POS/Embedding_plus_Positional_encoding.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deep_Learning_Specialization/Course_5/Week_4/W4A4_UGL_POS/preprocessing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,16 +292,20 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2N35qkRPKxMNH4rObjAcPLPGT9B" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -44,5 +321,8 @@
       <updated>1678880118276</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
