@@ -10,6 +10,7 @@ This repository encompasses all the machine learning courses and projects comple
 + Tensorflow and Keras;
 + Scikit-learn;
 + Matplotlib;
++ PyTorch;
 + ...
 
 ---
