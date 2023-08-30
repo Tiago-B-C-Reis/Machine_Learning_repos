@@ -90,9 +90,9 @@ This repository encompasses all the machine learning courses and projects comple
 + Week 3 - PA 1 - [Neural Machine Translation](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_5/Week_3/W3A1)
 + Week 3 - PA 2 - [Trigger Word Detection](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_5/Week_3/W3A2)
 + Week 4 - PA 1 - [Transformers Architecture with TensorFlow](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_5/Week_4/W4A1)
-+ Week 4 - UL 1 - [Transformer Pre-processing](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL)
-+ Week 4 - UL 2 - [Transformer Network Application: Named-Entity Recognition](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL)
-+ Week 4 - UL 3 - [Transformer Network Application: Question Answering](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_5/Week_4/W4A4_UGL_POS)
++ Week 4 - UL 1 - [Transformer Pre-processing](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_5/Week_4/W4A4_UGL_POS)
++ Week 4 - UL 2 - [Transformer Network Application: Named-Entity Recognition](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_5/Week_4/W4A2_UGL)
++ Week 4 - UL 3 - [Transformer Network Application: Question Answering](https://github.com/Tiago-B-C-Reis/Machine_Learning_repos/tree/main/Deep_Learning_Specialization/Course_5/Week_4/W4A3_UGL)
 ---
 
 ## Learning achievements:
